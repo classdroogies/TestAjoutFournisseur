@@ -103,6 +103,42 @@ namespace TestAjoutFournisseur {
         protected global::System.Web.UI.WebControls.TextBox TextQuantite;
         
         /// <summary>
+        /// Contrôle LabelIdCommande.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelIdCommande;
+        
+        /// <summary>
+        /// Contrôle ListCommmande.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListBox ListCommmande;
+        
+        /// <summary>
+        /// Contrôle SqlDataSourceCommandeFournisseur.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSourceCommandeFournisseur;
+        
+        /// <summary>
+        /// Contrôle BtnNewCommande.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BtnNewCommande;
+        
+        /// <summary>
         /// Contrôle BtnAddArticle.
         /// </summary>
         /// <remarks>
@@ -112,12 +148,12 @@ namespace TestAjoutFournisseur {
         protected global::System.Web.UI.WebControls.Button BtnAddArticle;
         
         /// <summary>
-        /// Contrôle BtnAddCommande.
+        /// Contrôle BtnSaveCommande.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnAddCommande;
+        protected global::System.Web.UI.WebControls.Button BtnSaveCommande;
     }
 }
